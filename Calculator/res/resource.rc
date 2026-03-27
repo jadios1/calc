@@ -1,0 +1,2 @@
+#define IDI_CALCICON 5000
+IDI_CALCICON ICON "calc.ico"
